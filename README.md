@@ -1,5 +1,15 @@
 # nlp_en
 
+#### nlp_from_archive.ipynb  
+下記の記事を再現
+Text Analysis & Feature Engineering with NLP  
+https://towardsdatascience.com/text-analysis-feature-engineering-with-nlp-502d6ea9225d  
+
+#### nlp_minor correction.ipynb  
+上記のコードを参考に、kaggleのツイッターの自然言語処理コンペのデータをもとに自然言語処理を実施  
+Real or Not? NLP with Disaster Tweets  
+https://www.kaggle.com/c/nlp-getting-started/data  
+
 ## 英語の自然言語処理の特徴量の作成を学ぶ
 
 コードを拝借しているサイト  
